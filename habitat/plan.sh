@@ -6,11 +6,11 @@
 # and `pkg_version` to define the fully-qualified package name, which determines
 # where the package is installed to on disk, how it is referred to in package
 # metadata, and so on.
-pkg_name=habitat-building-with-scaffolding
+pkg_name=meme-machine
 
 # Required unless overridden by the `HAB_ORIGIN` environment variable.
 # The origin is used to denote a particular upstream of a package.
-pkg_origin=jpg_tryhabitat
+pkg_origin=jpg_chef_habitat
 
 # Required.
 # Sets the version of the package
